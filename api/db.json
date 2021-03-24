@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Stream #1",
+      "description": "My new stream here",
+      "id": 1
+    },
+    {
+      "title": "Stream #2",
+      "description": "My other stream here",
+      "id": 2
+    },
+    {
+      "title": "Stream Created 1",
+      "description": "This was created by me and only me",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "Created the new stream today",
+      "userId": "106618624970105019095",
+      "id": 4
+    },
+    {
+      "title": "Stream #5",
+      "description": "What the heck is goin on?",
+      "userId": "106618624970105019095",
+      "id": 5
+    },
+    {
+      "title": "Stream #6",
+      "description": "This is the sixth stream",
+      "userId": "106618624970105019095",
+      "id": 6
+    }
+  ]
+}
